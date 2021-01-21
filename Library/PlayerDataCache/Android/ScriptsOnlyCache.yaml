@@ -14,6 +14,7 @@ ScriptsOnlyBuild:
     - Place
     - Player
     - Road
+    - ScreenAdaptive
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -83,27 +84,29 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11840}
     - Class: 114
-      Script: {instanceID: 11954}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12142}
+      Script: {instanceID: 11956}
     - Class: 114
-      Script: {instanceID: 12228}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12318}
+      Script: {instanceID: 12230}
     - Class: 114
-      Script: {instanceID: 12428}
+      Script: {instanceID: 12320}
     - Class: 114
-      Script: {instanceID: 12608}
+      Script: {instanceID: 12430}
     - Class: 114
-      Script: {instanceID: 12630}
+      Script: {instanceID: 12610}
     - Class: 114
-      Script: {instanceID: 12714}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 13002}
+      Script: {instanceID: 12716}
     - Class: 114
-      Script: {instanceID: 13062}
+      Script: {instanceID: 13004}
     - Class: 114
-      Script: {instanceID: 13070}
+      Script: {instanceID: 13064}
+    - Class: 114
+      Script: {instanceID: 13072}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -154,11 +157,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11840}
     - Class: 114
-      Script: {instanceID: 12704}
+      Script: {instanceID: 12706}
     - Class: 114
-      Script: {instanceID: 12714}
+      Script: {instanceID: 12716}
     - Class: 114
-      Script: {instanceID: 13062}
+      Script: {instanceID: 13064}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -530,6 +533,12 @@ ScriptsOnlyBuild:
     assemblyName: LeanGUI.dll
     namespaceName: Lean.Gui
     className: LeanWindow
+  - hash:
+      serializedVersion: 2
+      Hash: b64a2481369d11307809205b45b2995c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScreenAdaptive
   - hash:
       serializedVersion: 2
       Hash: b7e72217541757dcac287e6127041458

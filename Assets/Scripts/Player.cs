@@ -73,7 +73,7 @@ public class Player : MonoBehaviour
 	{
 		if (IsFullUse == false)
 		{
-			ListBullet[index].GetComponent<Rigidbody>().AddForce(new Vector3(30, 0, 0));
+			ListBullet[index].GetComponent<Rigidbody>().AddForce(new Vector3(70, 0, 0));
 		}
 	}
 }

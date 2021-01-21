@@ -77,6 +77,7 @@
     <Compile Include="Assets\Scripts\Place.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Road.cs" />
+    <Compile Include="Assets\Scripts\ScreenAdaptive.cs" />
     <None Include="Assets\OtherAssets\Lean\READ ME.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Program Files/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
